@@ -1,10 +1,15 @@
 /**
  *
  *
+   $CHOPPD on Base
+   https://ChoppdOnBase.com
+   https://t.me/ChoppdFnF
+   https://x.com/ChoppdOnBase
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
-   16% launch sell tax in ETH sent to community, marketing, & developer
+   Lopsided tax structure at launch
    Function to reduce taxes to 3/3
    Function to remove taxes
    Removable anti-whale restrictions of max transaction & max wallet
